@@ -36,7 +36,12 @@
 
 - 최종 발표 자료 ([link](https://github.com/hanakim120/grandpark-seoul-data-mining/blob/main/%E1%84%89%E1%85%A5%E1%84%8B%E1%85%AE%E1%86%AF%E1%84%83%E1%85%A2%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%80%E1%85%A2%E1%86%A8%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%20project.pdf))
 
-  
+## 🛠️ Skills
+- R 3.6.1 (dplyr, ggplot2, tree, caret, rpart, party)
+- SPSS Moduler
+- Python (sklearn)
+
+
 ## 🗂️ 사용한 데이터
 
 ### Raw 데이터 수집 경로 및 Attribute 목록
@@ -95,20 +100,13 @@
 </p>
 
 
-
-## 🛠️ Skills
-- R 3.6.1 (dplyr, ggplot2)
-- SPSS Moduler
-- Python
-
-
 ## 📝 Data analysis
 ### 1. 시계열 분석
 <p  align="center">
-<img  src="./image/forcast_day.png"  width="70%"  align="middle"/>
+<img  src="./image/forecast_day.png"  width="70%"  align="middle"/>
 </p>
 <p  align="center">
-<img  src="./image/forcast_day_result.png"  width="70%"  align="middle"/>
+<img  src="./image/forecast_day_result.png"  width="70%"  align="middle"/>
 </p>
 
 ### 2. Logistic Regression
