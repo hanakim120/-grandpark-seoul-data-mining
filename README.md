@@ -26,7 +26,7 @@ Data Mining을 이용한 서울대공원 입장객 수 예측
 >  
 4) **이후 시계열 분석과 Decision Tree 분석 결과를 통합하여 최종적으로 요인에 따라 입장객수를 예측한 후 매월 예상 입장객 수를 나타내는 예측표 작성**
 <p  align="center">
-<img  src="./image/연구방향.png"  width="80%"  align="middle"/>
+<img  src="./image/연구방향.png"  width="60%"  align="middle"/>
 </p>
 
 
@@ -45,38 +45,39 @@ Data Mining을 이용한 서울대공원 입장객 수 예측
 
 -   서울대공원 입장객수 데이터 ([서울 열린 데이터 광장](https://data.seoul.go.kr/dataList/datasetView.do?infId=OA-15386&srvType=F&serviceKind=1&currentPageNo=1))
 	: 2009년 1월 1일~2019년 4월 30일 일별 데이터
-	- 데이터개수: 약 220000개
-    - 특이 사항 : 2011년 1월1일 ~ 1월24일, 2014년 2월1일 ~ 2014년 2월28일, 2017년 1월1일 ~ 2월28일, 2017년 3월1일 ~ 3월27일에 해당하는 data 없음)
+	- 데이터개수 : 약 220000개
+    - 특이 사항 : 2011년 1월1일 ~ 1월24일, 2014년 2월1일 ~ 2014년 2월28일, 
+    2017년 1월1일 ~ 2월28일, 2017년 3월1일 ~ 3월27일에 해당하는 data 없음
 <p  align="center">
-<img  src="./image/1.png"  width="80%"  align="middle"/>
+<img  src="./image/1.png"  width="60%"  align="middle"/>
 </p>
 
 -   기온 데이터 ([기상자료개방포털](https://data.kma.go.kr/climate/RankState/selectRankStatisticsDivisionList.do?pgmNo=179))
 	: 2009년 1월 1일~2019년 11월 18일 일별 데이터
 	- 데이터 개수: 약 39000개
 <p  align="center">
-<img  src="./image/2.png"  width="80%"  align="middle"/>
+<img  src="./image/2.png"  width="50%"  align="middle"/>
 </p>
 
 -   강수량 데이터 ([기상자료개방포털](https://data.kma.go.kr/climate/RankState/selectRankStatisticsDivisionList.do?pgmNo=179))
 	: 2009년 1월 1일~2019년 11월 18일 일별 데이터
 	- 데이터 개수: 약 31200개
 <p  align="center">
-<img  src="./image/3.png"  width="80%"  align="middle"/>
+<img  src="./image/3.png"  width="50%"  align="middle"/>
 </p>
 
 -   미세먼지/초미세먼지 데이터 ([에어코리아](https://www.airkorea.or.kr/web/pmWarning?pMENU_NO=115))
 	: 2015년 1월 1일~2019년 11월 3일 일별 데이터
 	- 데이터 개수: 약 800개
 <p  align="center">
-<img  src="./image/4.png"  width="80%"  align="middle"/>
+<img  src="./image/4.png"  width="50%"  align="middle"/>
 </p>
 
 -   서울대공원 행사 데이터 ([서울시 120 다산콜센터 네이버 블로그](https://blog.naver.com/120seoulcall))
 	    : 2009년 1월 1일~2019년 11월 21일 일별 데이터
 	   - 데이터 개수: 약 4574개
 <p  align="center">
-<img  src="./image/5.png"  width="80%"  align="middle"/>
+<img  src="./image/5.png"  width="50%"  align="middle"/>
 </p>
   
 
